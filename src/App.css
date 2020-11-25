@@ -1,0 +1,12 @@
+.container{
+  width: 100%;
+  height: 100%;
+  background-image:linear-gradient(90deg, rgba(75,6,193,1) 0%, rgba(206,2,189,1) 100%);
+}
+.brain{
+  position: relative;
+  z-index: 1;
+}
+.front{
+  position: absolute;
+}
